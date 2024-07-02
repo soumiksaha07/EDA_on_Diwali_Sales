@@ -1,9 +1,9 @@
 # EDA_on_Diwali_Sales
 # Python Project
 
-- **Dataset :** Kaggle<br/>
+- **Source of Dataset :** Kaggle<br/>
 
-- **Tools:**<br/>
+- **Tools:** <br/>
 **Language:** Python<br/>
 **Platform:** Jupyter Notebook<br/>
 
