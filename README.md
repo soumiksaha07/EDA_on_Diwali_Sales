@@ -1,7 +1,7 @@
 # EDA_on_Diwali_Sales
 # Python Project
 
-- **Source of Dataset :** Kaggle<br/>
+- **Source of Dataset :** <"/kaggle/input/diwali-sales-dataset/diwali sales data.csv"<br/>
 
 - **Tools:** <br/>
 **Language:** Python<br/>
